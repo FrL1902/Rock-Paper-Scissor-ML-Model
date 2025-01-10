@@ -15,4 +15,4 @@ Although i do wish that i can improve certain areas of the code, such as impleme
 - more picture augmentation
 - use optimizer and loss-function
 
-but i guess that's an improvement for the future me to handle. for this dataset, the code is (i think) just ok as it is
+For this dataset, the code is (i think) just ok as it is
